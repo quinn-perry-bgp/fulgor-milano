@@ -49,7 +49,6 @@ Thumbs.db
 *.wmv
 
 wp-content/uploads/*
-wp-config.php
 wp-config-dev.php
 wp-content/wflogs/*
 wp-content/plugins/query-monitor/*
