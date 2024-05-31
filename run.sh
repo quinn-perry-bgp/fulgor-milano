@@ -11,7 +11,7 @@ echo "Mounting completed."
 echo "Symlinking site folder $FILESTORE_SITE_FOLDER"
 mkdir -p /mnt/nfs/filestore/$FILESTORE_SITE_FOLDER/uploads
 # Link NFS uploads folder to Wordpress uploads 
-ln -f -s /mnt/nfs/filestore/uploads /var/www/html/wp-content/uploads
+ln -f -s /mnt/nfs/filestore/$FILESTORE_SITE_FOLDER/uploads /var/www/html/wp-content/uploads
 chown www-data:www-data /mnt/nfs/filestore/uploads
 
 # Set up environment variables
