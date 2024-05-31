@@ -61,14 +61,14 @@ if(file_exists(__DIR__.'/wp-config-dev.php')){
      *
      * @since 2.6.0
      */
-    define('AUTH_KEY',         'pL=-AQJ*-eTouz  o_j8TtV0$<j lrR_9Tmct++l>:2~lZ73*!4p22cr#GWuBUTX');
-    define('SECURE_AUTH_KEY',  '6rr]K]+G%D48?s1q1a3R`HBz((V,#-}CvLO(Uz)$&$z,r9s/C#o4F!,v1CgW:AiO');
-    define('LOGGED_IN_KEY',    '#&(gdy,X$%:PV)6hk.S)w-&ZM^x+FMRQ*Q|Ji`c;(MYEM>a)jhJ:?hd-Y~Esbb4i');
-    define('NONCE_KEY',        'Phh362W_TgQQW{J-`PK#YVNfEvaWUeKL#;{&q4>J#u%9+eJ[*S8DDQJ6|x5b(^A-');
-    define('AUTH_SALT',        '.>NrL1B(q f85xY^=pKDB<S)DBaM#&Mh-o-8GpNK{Tbo`J-$b%U0grlMd^F2|(~]');
-    define('SECURE_AUTH_SALT', 'cfgI(+T=[|0iz!pi@L>l-9N7=4NNG@BG zye~RU9i!4vS:El;L:%|P+3yfjLyB%`');
-    define('LOGGED_IN_SALT',   '0*hW:Z~6dwNe-#-t2rxf+~q>?Q}lqo1pj>|-yo9D1oK_Bf{`AC;0KosCzq07jKUu');
-    define('NONCE_SALT',       '+%H_Qsx^R2{L76sj[ql+eBYD1H->-2-H}OTFSs-mp__NK+tDZg<T9v7HFr>5;d(p');
+    define('AUTH_KEY',         '/<x?ICYy-]hr1T]80W&sIEIiJX!k94m?%^<y-}JxXVVcoFEsGp[2+7h%BH0F.Pf#');
+    define('SECURE_AUTH_KEY',  '#]+[De&0}j9i<TjI)E%<+!g3#Kn&D%0OQ}>@Lj3aW^E5+N{Y9`_A6yyiR9|Cio|S');
+    define('LOGGED_IN_KEY',    'lm1Qok6@a@B*.yd2&@O>-,@3)5G|lcF^G{I8nN.-U7OZN|z1txhRUE.qA-[UK*~?');
+    define('NONCE_KEY',        'jgBzn||UM:WkpJ6)j*$iZ@jp6D+8/G.K E4uFD(A>qb`(|sl-ilXk]vRN&gEx`DR');
+    define('AUTH_SALT',        '%2Q8-?x181xiC#[*V#E:m<7Jj2x14 {==$6eKpN;isWY;g8#h[U|`@=M>9G_=.w.');
+    define('SECURE_AUTH_SALT', ' C9B%R!S/.:f*q FxdnY5A2t=m:Wtt{]1BO/B+:<auw<<vv`,&Wb%/d(KmqhI3)+');
+    define('LOGGED_IN_SALT',   '|*>rC=#CA9*I@iMBe(j;549ZCbc|z6L^N%z^=WeJY,K4*-nVda&,+{,hB6 [sw)W');
+    define('NONCE_SALT',       'WkayT-.~s@*W_6Z@. )oe@c8ZzI,kCJtk,X^tU4Mb7Mwa_7*ePMm!1@MdlX=>$T-');
         
 
     /**#@-*/
